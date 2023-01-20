@@ -1,0 +1,10 @@
+﻿  Person.cpp
+C:\parth\Metropolia\2nd Year\C++\Test_Project_C++\Person.cpp(36,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\parth\Metropolia\2nd Year\C++\Test_Project_C++\Person.cpp(37,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\parth\Metropolia\2nd Year\C++\Test_Project_C++\Person.cpp(38,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\parth\Metropolia\2nd Year\C++\Test_Project_C++\Person.cpp(39,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\parth\Metropolia\2nd Year\C++\Test_Project_C++\Person.cpp(40,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Phonebook.cpp
+  Test_Project_C++.cpp
+  Generating Code...
+  Test_Project_C++.vcxproj -> C:\parth\Metropolia\2nd Year\C++\Test_Project_C++\x64\Debug\Test_Project_C++.exe
