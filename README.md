@@ -15,6 +15,7 @@ The program has the following commands:
   5. Remove a person from the phone book
   6. Print a list of persons who live in the given city
   7. Print all contact information, relatives are printed before other people
-  
-  Example print of 7th option:
-![print_of_7th_option](https://user-images.githubusercontent.com/99806873/213674015-64cf0cb9-6da3-410d-b5e8-551e9432db00.jpg)
+    
+      - **Example print:**
+
+          ![print_of_7th_option](https://user-images.githubusercontent.com/99806873/213675616-9bf4a2c7-f19f-4412-9f92-1f15e92a35c9.jpg)
