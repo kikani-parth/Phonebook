@@ -1,13 +1,13 @@
 # Phonebook
 
-**Each structure contains the following information:**
+- **Each structure contains the following information:**
   1. Name
   2. E-mail address
   3. Telephone number
   4. City
   5. Relative
 
-**The program has the following commands:**
+- **The program has the following commands:**
   1. Initialize (clear all records)
   2. Save contact information to file (phone book)
   3. Read contact information from file
