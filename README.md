@@ -20,7 +20,7 @@
 
           ![print_of_7th_option](https://user-images.githubusercontent.com/99806873/213675616-9bf4a2c7-f19f-4412-9f92-1f15e92a35c9.jpg)
 
-# Features
+# Extra Features
 - Printing is done in fromatted columns
 - User friendly interface
 - Shows appropriate error messages
