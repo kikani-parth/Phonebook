@@ -13,7 +13,7 @@
   3. Read contact information from file
   4. Add new person to phone book
   5. Remove a person from the phone book
-  6. Print a list of persons who live in the given city
+  6. Print a list of people who live in the given city
   7. Print all contact information, relatives are printed before other people
     
       - **Example print:**
